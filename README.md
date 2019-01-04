@@ -18,3 +18,5 @@ No prompt de comando ou no Anaconda prompt, execute o comando:
 `jupyter notebook`
 
 E navegue manualmente até o diretório com o arquivo `.ipybnb` para executá-lo.
+
+Acesso direto ao Notebook Jupyter: [Link](https://github.com/lucasalmeiidaa/boston_housing/blob/master/boston_housing_PT.ipynb)
